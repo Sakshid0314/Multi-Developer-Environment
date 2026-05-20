@@ -1,0 +1,14 @@
+TEST CASES
+
+1. Check login functionality
+2. Verify password validation
+3. Check homepage loading
+4. Verify logout functionality
+5. Test invalid credentials
+6. Verify mobile responsiveness
+7. Check button click events
+8. Verify API response
+9. Test search functionality
+10. Check error messages
+
+Testing Team Project
